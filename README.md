@@ -5,10 +5,10 @@ Huge fan of [photography 📸](https://www.instagram.com/p/CwC9vk8LTql/) and Ten
 
 I'm passionate about building scalable, reliable, and secure platforms.
 
-Ask me about:
-✨ Leading and building strong engineering teams
-🧪 W3C Verifiable Credentials  / SSI
-💻 Engineering data pipelines
+Ask me about:  
+✨ Leading and building strong engineering teams  
+🧪 W3C Verifiable Credentials  / SSI  
+💻 Engineering data pipelines  
 
 <!--
 **marek5050/marek5050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
