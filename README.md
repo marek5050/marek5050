@@ -7,7 +7,7 @@ I'm passionate about building scalable, reliable, and secure platforms.
 
 Ask me about:  
 ✨ Leading and building strong engineering teams  
-🚀 Securing Kubernetes environments and CI/CD pipelines
+🚀 Securing Kubernetes environments and CI/CD pipelines  
 🧪 W3C Verifiable Credentials  / SSI  
 💻 Engineering data pipelines  
 
