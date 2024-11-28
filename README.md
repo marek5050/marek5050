@@ -1,5 +1,5 @@
 ### Hello World! 👋
-I'm a Software Engineer based in New York City, NY working in the cutting edge FinPub space. 
+I'm a Software Engineer based in New York City, NY working in the cutting edge FinPub space.  
 I'm a graduate of [University of Texas at Austin](https://www.utexas.edu/) 🤘 with a B.S. in Computer Science.  
 Huge fan of [photography 📸](https://www.instagram.com/p/CwC9vk8LTql/) and Tennis 🎾.
 
